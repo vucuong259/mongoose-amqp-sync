@@ -1,5 +1,3 @@
-*.ts
 *.tsx
 *.log
 node_modules
-dist
